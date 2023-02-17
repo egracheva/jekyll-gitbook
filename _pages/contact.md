@@ -11,4 +11,4 @@ We're always happy to hear from our users, whether you have a question, suggesti
 Email: lambard.guillaume(at)nims.go.jp\
 Twitter: @gamlambard
 
-Check out our [FAQs page](https://github.com/egracheva/jekyll-gitbook/edit/master/_pages/faq.md) to see if your question is already answered.
+Check out our  [FAQs page](https://egracheva.github.io/jekyll-gitbook/pages/faq/) to see if your question is already answered.
