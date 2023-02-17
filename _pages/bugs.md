@@ -8,7 +8,7 @@ layout: post
 
 Thanks for using our software package! We want to make sure that it's as bug-free and user-friendly as possible, so we'd love to hear from you if you encounter any issues or have any suggestions for improvement.
 
-If you do come across a bug, please report it via [Github issues](https://github.com/Lambard-ML-Team/SMILES-X/issues). Here are some tips on how to make sure your report is as helpful as possible:
+If you do come across a bug, please report it via [Github issues](https://github.com/Lambard-ML-Team/SMILES-X/issues){:target="_blank" rel="noopener"}. Here are some tips on how to make sure your report is as helpful as possible:
 
 1. Be specific: Please provide as much detail as possible about the issue, including steps to reproduce it and any error messages you receive. This will help us understand the problem and come up with a fix more quickly.
 
