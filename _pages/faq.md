@@ -1,5 +1,5 @@
 ---
-title: Contact
+title: FAQ
 author: Ekaterina Gracheva
 date: 2023-02-17
 category: SMILES-X
