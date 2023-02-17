@@ -6,8 +6,6 @@ category: SMILES-X
 layout: post
 ---
 
-### Bug reports
-
 Thanks for using our software package! We want to make sure that it's as bug-free and user-friendly as possible, so we'd love to hear from you if you encounter any issues or have any suggestions for improvement.
 
 If you do come across a bug, please report it via [Github issues](https://github.com/Lambard-ML-Team/SMILES-X/issues). Here are some tips on how to make sure your report is as helpful as possible:
