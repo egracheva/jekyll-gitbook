@@ -1,7 +1,7 @@
 ---
 title: About
 author: Ekaterina Gracheva
-date: 2023-02-17
+date: 2023-02-14
 category: Jekyll
 layout: post
 ---
